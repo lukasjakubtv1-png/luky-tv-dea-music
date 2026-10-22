@@ -156,3 +156,13 @@ body[data-page="songs"] .workspace main{padding-top:22px}
  .about{padding:17px}
  #toast{bottom:164px}
 }
+
+/* Compact per-track metrics remain readable on narrow phones */
+.songStats{display:none!important}
+@media(max-width:640px){
+ .track{grid-template-columns:minmax(0,1fr) 72px;gap:5px;min-height:74px;padding:10px 4px}
+ .track .metric{display:none!important}
+ .songText small.songStats{display:block!important;margin-top:4px;font-size:9px;color:#2866bd;white-space:normal;line-height:1.3}
+ .trackActions{width:72px;justify-content:flex-end}
+ .trackActions button{width:35px}
+}
