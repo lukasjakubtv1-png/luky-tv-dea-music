@@ -1,7 +1,7 @@
 {
   "artist": "Luky TV DEA",
   "source": "https://suno.com/@luky_tv_dea",
-  "updatedAt": "2026-10-29T17:54:04+00:00",
+  "updatedAt": "2026-10-29T18:55:20+00:00",
   "total": 87,
   "songs": [
     {
@@ -15,7 +15,7 @@
       "likes": 3,
       "genre": "Flamenco / Latin",
       "style": "Spanish flamenco, warm and intimate, measured mid-tempo compás, expressive male lead vocal with clear Czech diction and graceful phrasing, nylon-string flamenco guitar with rasgueado and delicate fingerpicking, restrained palmas and subtle hand percussion, gently swaying bass, melodic guitar fills b",
-      "version": "v6",
+      "version": "v6-mini",
       "createdAt": "2026-10-23T09:23:23.844Z"
     },
     {
@@ -43,7 +43,7 @@
       "likes": 3,
       "genre": "Autorská hudba",
       "style": "Warm mature male narrator, nasal and adenoidal timbre, intimate human delivery, slow expressive pacing, clear pronunciation, gentle pauses, heartfelt documentary narration, soft melancholic tone, gradually intensifying emotion, tender hopeful finish.",
-      "version": "v6",
+      "version": "v6-mini",
       "createdAt": "2026-10-25T17:03:18.485Z"
     },
     {
@@ -57,7 +57,7 @@
       "likes": 4,
       "genre": "Orchestrálna",
       "style": "Slovak cinematic chamber-pop ballad, slow measured pulse, intimate low male vocal with restrained conversational phrasing, close piano and bowed cello in the opening, delicate violin harmonics and muted accordion gradually joining, subtle brushed percussion, verses held close and vulnerable, pre-cho",
-      "version": "v6",
+      "version": "v6-mini",
       "createdAt": "2026-10-25T16:31:07.127Z"
     },
     {
@@ -155,7 +155,7 @@
       "likes": 9,
       "genre": "Orchestrálna",
       "style": "Cinematic ballad, grand piano, expressive solo cello, sweeping strings, warm bass and gradual orchestral drums at 72 BPM; premium studio production with lush symphonic crescendos, a breathless pause before the final chorus, dramatic key change and delicate piano-cello outro; intimate, close-mic brea",
-      "version": "v6",
+      "version": "v6-mini",
       "createdAt": "2026-10-19T23:45:28.647Z"
     },
     {
@@ -169,7 +169,7 @@
       "likes": 8,
       "genre": "Orchestrálna",
       "style": "Indie-folk ballad, 72 BPM slow cinematic pulse; intimate fingerpicked acoustic guitar, weeping cello, piano, deep atmospheric bass, swelling strings, slow drums, electric guitar and soft wind; close, cinematic production building to an orchestral climax; haunting raw vocals with clipped rhythmic phr",
-      "version": "v6",
+      "version": "v6-mini",
       "createdAt": "2026-10-19T23:14:53.357Z"
     },
     {
@@ -179,7 +179,7 @@
       "audio": "https://cdn1.suno.ai/ab07997f-ca6f-4195-8e95-a75dd1601d1b.mp4",
       "cover": "https://cdn2.suno.ai/ab07997f-ca6f-4195-8e95-a75dd1601d1b_90e3969f.jpeg",
       "duration": "4:32",
-      "views": 931,
+      "views": 935,
       "likes": 11,
       "genre": "Orchestrálna",
       "style": "Cinematic pop, steady 92 BPM pulse; acoustic guitar strums, piano ostinato, violin counterline, orchestral strings, prepared piano, cello undercurrent, swelling accordion, gated snare; sidechain compression, tape saturation, stereo room reverb; rising pre-chorus into anthem chorus; expressive male l",
@@ -277,7 +277,7 @@
       "audio": "https://cdn1.suno.ai/729fbd32-bc9f-4534-9555-ff6d5943329c.mp4",
       "cover": "https://cdn2.suno.ai/729fbd32-bc9f-4534-9555-ff6d5943329c_3115816a.jpeg",
       "duration": "3:22",
-      "views": 1780,
+      "views": 1786,
       "likes": 11,
       "genre": "Pop",
       "style": "Electro-pop, swung 118 BPM sixteenths, sidechain-pumped tape saturation; dramatic female mezzo, intimate restrained verses opening into an explosive chorus; syncopated drum-machine kick, gated snare, chopped accordion riffs, cello ostinato, palm-muted guitar, arpeggiated sequencer, analog synth stab",
@@ -295,7 +295,7 @@
       "likes": 9,
       "genre": "Klavírna",
       "style": "Classical chamber pop, measured 92 BPM pulse; breathy androgynous alto, close-miked; violin harmonics over prepared piano, cello counterline, swelling accordion, arco upright bass, brushed snare kit; sparse intro into restrained build and anthemic release, tape saturation, room mic bleed, plate reve",
-      "version": "v6",
+      "version": "v6-mini",
       "createdAt": "2026-10-16T02:54:45.771Z"
     },
     {
@@ -379,7 +379,7 @@
       "likes": 7,
       "genre": "Pop-rock",
       "style": "Pop rock, acoustic guitar strumming with electric guitar hooks, steady drums and keyboard chords, driving even pulse, warm tape saturation, warm mid-range male vocals in a half-spoken talk-sing delivery, energetic electric guitar solo.",
-      "version": "v6",
+      "version": "v6-mini",
       "createdAt": "2026-10-15T11:56:40.957Z"
     },
     {
@@ -393,7 +393,7 @@
       "likes": 8,
       "genre": "Autorská hudba",
       "style": "Deep, warm, emotionally expressive Czech male baritone narrator, around 40, natural conversational storytelling with clear Czech pronunciation, slow thoughtful pace, intimate and authentic, subtle vulnerability and realistic breathing, Begin quietly and mysteriously, deepen into restrained sadness a",
-      "version": "v6",
+      "version": "v6-mini",
       "createdAt": "2026-10-14T19:48:23.538Z"
     },
     {
@@ -407,7 +407,7 @@
       "likes": 5,
       "genre": "Orchestrálna",
       "style": "1960s orchestral chanson, warm analog recording with intimate room tone and a piano-and-vocal-forward mix; gentle featured piano, delicate accordion, lush strings, upright bass, brushed drums; warm velvety male baritone with clear Czech pronunciation, expressive theatrical phrasing and natural vibra",
-      "version": "v6",
+      "version": "v6-mini",
       "createdAt": "2026-10-14T08:58:48.649Z"
     },
     {
@@ -449,7 +449,7 @@
       "likes": 4,
       "genre": "Rap / Hip-hop",
       "style": "Emotional Czech cinematic pop ballad, 84 BPM, piano, solo violin, orchestral strings, subtle synth pads, warm bass, melodic hip-hop drums. Two strictly separated vocal characters: CHARACTER 1 is an innocent young daughter with a soft, high-pitched, natural little girl's singing voice, emotionally fr",
-      "version": "v6",
+      "version": "v6-mini",
       "createdAt": "2026-10-10T16:47:44.681Z"
     },
     {
@@ -491,7 +491,7 @@
       "likes": 6,
       "genre": "Orchestrálna",
       "style": "Intimate cinematic spoken-word monologue in native Slovak, Deep, warm, slightly raspy mature male voice with natural Slovak pronunciation, Emotionally vulnerable, sincere, gentle and profoundly human, Slow, thoughtful, conversational delivery with natural breathing and meaningful short pauses, The n",
-      "version": "v6",
+      "version": "v6-mini",
       "createdAt": "2026-10-12T13:24:38.947Z"
     },
     {
@@ -533,7 +533,7 @@
       "likes": 4,
       "genre": "Flamenco / Latin",
       "style": "Latin pop reggaeton; faithful production preserving the reference melody, rhythm, chord progression, guitar pattern, tempo, and section structure; reference-tempo dembow sway with smooth bass and featured acoustic Spanish guitar; expressive charismatic male vocals with playful rhythmic phrasing, int",
-      "version": "v6",
+      "version": "v6-mini",
       "createdAt": "2026-10-11T18:48:04.604Z"
     },
     {
@@ -589,7 +589,7 @@
       "likes": 5,
       "genre": "Autorská hudba",
       "style": "Male voice, deep bass register, slightly rough texture, flat affectless monotone, slow measured narration, deliberate emotional pauses, empathetic and authoritative, intimate and direct",
-      "version": "v6",
+      "version": "v6-mini",
       "createdAt": "2026-10-11T00:32:12.911Z"
     },
     {
@@ -603,7 +603,7 @@
       "likes": 10,
       "genre": "Šansón",
       "style": "Classical chanson, solo grand piano with delicate high-register melodic phrases and flowing left-hand arpeggios; warm, velvety male baritone with tender vibrato, clear Slovak diction and intimate legato storytelling; slow, restrained pulse with a gently rising emotional peak and a memorable, repetit",
-      "version": "v6",
+      "version": "v6-mini",
       "createdAt": "2026-10-10T16:17:53.223Z"
     },
     {
@@ -613,7 +613,7 @@
       "audio": "https://cdn1.suno.ai/05338548-862d-4c99-9c2c-cb6a3ceec7e6.mp4",
       "cover": "https://cdn2.suno.ai/05338548-862d-4c99-9c2c-cb6a3ceec7e6_5f49945c.jpeg",
       "duration": "5:27",
-      "views": 2463,
+      "views": 2484,
       "likes": 11,
       "genre": "Flamenco / Latin",
       "style": "Flamenco pop-rock with prominent fingerpicked nylon-string Spanish guitar, passionate rasgueado, delicate palmas and cajón, crisp-snare drums, melodic electric bass and atmospheric pads. Warm expressive male baritone with intimate rhythmic spoken-sung verses, subtle melodic-rap phrasing and Spanish ",
@@ -687,7 +687,7 @@
       "likes": 6,
       "genre": "Klavírna",
       "style": "Czech-language melancholic piano ballad, intimate solo piano with delicate upper-register melody and flowing arpeggiated left-hand chords, slow measured pulse, soft-to-medium dynamics, natural clean piano recording. A warm expressive solo vocal carries reflective verses and a memorable refrain, with",
-      "version": "v6",
+      "version": "v6-mini",
       "createdAt": "2026-10-09T10:52:24.953Z"
     },
     {
@@ -701,7 +701,7 @@
       "likes": 5,
       "genre": "Flamenco / Latin",
       "style": "Latin pop with a reggaeton groove, 90 BPM in G major; syncopated percussion and prominent dhol-inspired drums drive a catchy tumbi-style hook, clean reggae upstroke guitar, warm deep electronic bass and tropical flute fills. Playful male lead with expressive Slovak pronunciation shifts between sung ",
-      "version": "v6",
+      "version": "v6-mini",
       "createdAt": "2026-10-09T10:43:25.280Z"
     },
     {
@@ -757,7 +757,7 @@
       "likes": 14,
       "genre": "Pop",
       "style": "Pop with layered synthesizer pads, a solo female vocal in an emotional, expressive delivery, luminous synth chords and steady drums, a measured pulse that opens into a broad, soaring chorus.",
-      "version": "v6",
+      "version": "v6-mini",
       "createdAt": "2026-10-07T10:24:20.534Z"
     },
     {
