@@ -1,7 +1,7 @@
 {
   "artist": "Luky TV DEA",
   "source": "https://suno.com/@luky_tv_dea",
-  "updatedAt": "2026-10-29T16:57:39+00:00",
+  "updatedAt": "2026-10-29T17:54:04+00:00",
   "total": 87,
   "songs": [
     {
@@ -29,7 +29,7 @@
       "likes": 2,
       "genre": "Orchestrálna",
       "style": "Intimate Czech emotional spoken-word storytelling, warm mature male narrator, natural heartfelt speech, slow gentle cinematic piano, subtle melancholic cello, soft strings gradually rising during the emotional revelation, tender hopeful resolution, expressive realistic narration, delicate pauses, cl",
-      "version": "v6",
+      "version": "v6-mini",
       "createdAt": "2026-10-26T07:36:32.483Z"
     },
     {
@@ -85,7 +85,7 @@
       "likes": 10,
       "genre": "Orchestrálna",
       "style": "Cinematic orchestral comedy with powerful strings, heroic brass, and marching percussion; close-miked string articulation and crisp orchestral separation; theatrical male vocals in a dark lower register, hushed and intimate in the verses, building into lively syllabic chants and a triumphant finale;",
-      "version": "v6",
+      "version": "v6-mini",
       "createdAt": "2026-10-21T13:42:34.476Z"
     },
     {
@@ -179,7 +179,7 @@
       "audio": "https://cdn1.suno.ai/ab07997f-ca6f-4195-8e95-a75dd1601d1b.mp4",
       "cover": "https://cdn2.suno.ai/ab07997f-ca6f-4195-8e95-a75dd1601d1b_90e3969f.jpeg",
       "duration": "4:32",
-      "views": 924,
+      "views": 931,
       "likes": 11,
       "genre": "Orchestrálna",
       "style": "Cinematic pop, steady 92 BPM pulse; acoustic guitar strums, piano ostinato, violin counterline, orchestral strings, prepared piano, cello undercurrent, swelling accordion, gated snare; sidechain compression, tape saturation, stereo room reverb; rising pre-chorus into anthem chorus; expressive male l",
@@ -277,11 +277,11 @@
       "audio": "https://cdn1.suno.ai/729fbd32-bc9f-4534-9555-ff6d5943329c.mp4",
       "cover": "https://cdn2.suno.ai/729fbd32-bc9f-4534-9555-ff6d5943329c_3115816a.jpeg",
       "duration": "3:22",
-      "views": 1778,
+      "views": 1780,
       "likes": 11,
       "genre": "Pop",
       "style": "Electro-pop, swung 118 BPM sixteenths, sidechain-pumped tape saturation; dramatic female mezzo, intimate restrained verses opening into an explosive chorus; syncopated drum-machine kick, gated snare, chopped accordion riffs, cello ostinato, palm-muted guitar, arpeggiated sequencer, analog synth stab",
-      "version": "v6",
+      "version": "v6-mini",
       "createdAt": "2026-10-16T03:11:08.688Z"
     },
     {
@@ -613,7 +613,7 @@
       "audio": "https://cdn1.suno.ai/05338548-862d-4c99-9c2c-cb6a3ceec7e6.mp4",
       "cover": "https://cdn2.suno.ai/05338548-862d-4c99-9c2c-cb6a3ceec7e6_5f49945c.jpeg",
       "duration": "5:27",
-      "views": 2456,
+      "views": 2463,
       "likes": 11,
       "genre": "Flamenco / Latin",
       "style": "Flamenco pop-rock with prominent fingerpicked nylon-string Spanish guitar, passionate rasgueado, delicate palmas and cajón, crisp-snare drums, melodic electric bass and atmospheric pads. Warm expressive male baritone with intimate rhythmic spoken-sung verses, subtle melodic-rap phrasing and Spanish ",
@@ -631,7 +631,7 @@
       "likes": 7,
       "genre": "Pop-rock",
       "style": "Cinematic pop rock with stacked chorus vocal harmonies, powerful emotive male lead, distorted power-chord guitars and a featured melodic guitar lead, palm-muted verse guitar, thick synth bass, eighth-note kick, prominent backbeat snare, staccato violins and sustained cello pads, driving 128 BPM four",
-      "version": "v6",
+      "version": "v6-mini",
       "createdAt": "2026-10-10T16:51:27.215Z"
     },
     {
@@ -799,7 +799,7 @@
       "likes": 2,
       "genre": "Pop-rock",
       "style": "Pop rock with cinematic orchestral elements, stacked chorus vocal harmonies, driving 128 BPM four-on-the-floor pulse, powerful emotive male lead, punchy backbeat snare and steady eighth-note kick, thick kick-locked synth bass, palm-muted clean verse guitars, distorted chorus power chords, staccato v",
-      "version": "v6",
+      "version": "v6-mini",
       "createdAt": "2026-09-25T16:43:51.124Z"
     },
     {
