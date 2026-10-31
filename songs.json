@@ -1,9 +1,23 @@
 {
   "artist": "Luky TV DEA",
   "source": "https://suno.com/@luky_tv_dea",
-  "updatedAt": "2026-10-31T01:00:25+00:00",
-  "total": 88,
+  "updatedAt": "2026-10-31T01:59:13+00:00",
+  "total": 89,
   "songs": [
+    {
+      "id": "7523791a-c6cf-4734-b9e2-05aa01bc31b1",
+      "title": "Príď ku mne v sne (Slovak)",
+      "url": "https://suno.com/song/7523791a-c6cf-4734-b9e2-05aa01bc31b1",
+      "audio": "https://cdn1.suno.ai/7523791a-c6cf-4734-b9e2-05aa01bc31b1.mp4",
+      "cover": "https://cdn2.suno.ai/7523791a-c6cf-4734-b9e2-05aa01bc31b1_c1e8f950.jpeg",
+      "duration": "4:57",
+      "views": 10,
+      "likes": 1,
+      "genre": "Elektronická",
+      "style": "Slovenská kinematografická popová balada s intímnym klavírom a jemnými orchestrálnymi sláčikmi, striedmy pulz a postupne rastúca dynamika do refrénov. Zachovať pôvodnú melódiu a štruktúru. Citlivý mužský barytón, prirodzený a blízky v slohách, plne melodický a otvorený v refrénoch s dlhšími spevnými",
+      "version": "v6-mini",
+      "createdAt": "2026-10-31T01:25:56.073Z"
+    },
     {
       "id": "6df3b044-90ed-4968-b01f-2e5040c905f2",
       "title": "Dokud mě najdeš (Príbeh)",
@@ -277,7 +291,7 @@
       "audio": "https://cdn1.suno.ai/445f96d1-eec0-46cf-82ef-0cfaf096a50a.mp4",
       "cover": "https://cdn2.suno.ai/445f96d1-eec0-46cf-82ef-0cfaf096a50a_1dd47918.jpeg",
       "duration": "3:26",
-      "views": 201,
+      "views": 212,
       "likes": 9,
       "genre": "Elektronická",
       "style": "An electronic song sung in Czech by a solo female vocalist with an expressive delivery, over a synthesizer and drum machine; dreamy.",
